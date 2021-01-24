@@ -1,10 +1,14 @@
-body 
+body
 {
-    background-color: #ffffff;
-    text-align: center;
+   background-color: rgba(91, 248, 43, 0.808);
+   text-align: center;
 }
 
-h4 
+#image1
 {
-    font-family: 'Courier New', Courier, monospace;
+    width: 800px;
+    height: 600px;
+    padding: 10px;
+    border:darkgray;
+    border-width: 5px;
 }
